@@ -1,0 +1,27 @@
+[Profile]
+id=KMP
+Description=
+[KEYBOARD]
+C-KEY2=apl 20
+C-KEY3=apl 22
+C-KEY4=apl 28
+C-KEY5=apl 30
+C-KEY6=apl 32
+C-KEY7=apl 38
+C-KEY8=apl 3a
+C-KEY9=[pass]
+C-KEY10=[pass]
+C-KEY11=[pass]
+KEY43=[enter]
+S-KEY43=[enter]
+C-KEY43=[dead]
+C-KEY46=[edit-undo]
+A-KEY46=[edit-copyappend]
+C-KEY47=[edit-cut]
+C-KEY48=[edit-copy]
+A-KEY48=[Edit Copy As Image]
+C-KEY49=[edit-paste]
+C-KEY52=[edit-copyappend]
+KEY64=[newline]
+S-KEY64=[newline]
+S-KEY108=[enter]
